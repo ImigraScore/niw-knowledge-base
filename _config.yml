@@ -1,0 +1,24 @@
+title: NIW Knowledge Base
+description: Analytical hub for EB-2 NIW adjudication logic and strategic evaluation.
+baseurl: "/niw-knowledge-base"
+url: "https://imigrascore.github.io"
+
+author:
+  name: ImigraScore
+  url: https://imigrascore.us
+
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
