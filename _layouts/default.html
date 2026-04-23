@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+
+<header>
+  <a href="{{ '/' | relative_url }}" class="brand">ImigraScore NIW Hub</a>
+  <nav class="nav-links">
+    <a href="https://imigrascore.github.io/eb2-niw-framework/">Framework</a>
+    <a href="https://imigrascore.us">Platform</a>
+    <a href="https://doi.org/10.5281/zenodo.19709462">DOI</a>
+  </nav>
+</header>
+
+<div class="container">
+  {{ content }}
+</div>
+
+<div class="footer">
+  <p>© 2026 ImigraScore · Strategic Intelligence Platform</p>
+  <p style="font-size: 0.75rem; color: var(--ink-soft); max-width: 600px; margin: 10px auto; line-height: 1.4;">
+    <strong>Institutional Disclaimer:</strong> ImigraScore is a strategic intelligence platform, not a law firm. 
+    The content provided herein is for educational and analytical purposes only and does not constitute legal advice or services. 
+    Final adjudication decisions are made exclusively by U.S. authorities.
+  </p>
+</div>
+
+</body>
+</html>

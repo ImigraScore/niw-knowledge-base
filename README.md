@@ -45,9 +45,19 @@ This repository is designed to amplify the Technical Framework. Every analytical
 
 ---
 
-## Disclaimer
+## Compliance & Legal Notice
 
-This Knowledge Base is strictly educational. It provides technical analysis of immigration standards but does not constitute legal advice or the provision of legal services.
+### 1. Educational Purpose
+The NIW Knowledge Base is an open-access educational resource provided by ImigraScore. Its primary function is to provide technical analysis of U.S. immigration adjudication logic and policy trends. All content is for informational purposes only.
+
+### 2. Not a Law Firm
+**ImigraScore is not a law firm.** We do not provide legal services, legal advice, or representation in any immigration matter. The use of this repository or the ImigraScore NIW Framework does not establish an attorney-client relationship.
+
+### 3. No Guarantee of Results
+Immigration adjudication involves subjective analysis by United States government officials. While this repository maps established policy and precedent, ImigraScore cannot and does not guarantee the outcome of any individual petition. Final decisions rest exclusively with the relevant U.S. authorities.
+
+### 4. Professional Engagement
+We strongly recommend that all EB-2 NIW candidates consult with a licensed immigration attorney before filing any petition. ImigraScore provides technical diagnostic tools that serve as a strategic intelligence layer prior to or alongside legal engagement.
 
 ---
 
